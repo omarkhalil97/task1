@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+img {
+    width: 200px;
+    height: 180px;
+    border-radius: 50px;
+}
+
+
+.aa {
+    position: relative;
+    left: 1000px;
+}
+
+body {
+    background-color: gray;
+}
+
+div {
+    position: relative;
+    top: 15px;
+    color: aqua;
+}
+
+#o {
+    position: relative;
+    nav-down: 200px;
+}
+
+#pp {
+    color: red;
+}
